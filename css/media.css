@@ -1,0 +1,240 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header start */
+  .logo {
+    width: 150px;
+  }
+  .slider {
+    padding: 30px 0;
+  }
+  .s_h1 {
+    text-align: center;
+    font-size: 28px;
+  }
+  .s_h5 {
+    text-align: center;
+    margin: 5px 0;
+    font-size: 20px;
+  }
+  .s_p {
+    text-align: center;
+    font-size: 16px;
+  }
+.b_n {
+    padding: 0px 0px 0px 60px;
+}
+
+/* about section start */
+  .about {
+    padding: 35px 0;
+}
+  .t-h {
+    font-size: 28px;
+}
+  .t-p {
+    font-size: 16px;
+    padding: 0px 0px 0px 0px;
+}
+  .c_h {
+    text-align: center;
+    font-size: 24px;
+}
+  .c_p {
+    text-align: center;
+}
+/* service section start */
+  .service {
+    padding: 51px 0;
+}
+  .o-p {
+    padding: 0px 0px 30px 0px;
+    font-size: 20px;
+}
+  .a_h {
+    padding: 10px 27px 10px 27px;
+}
+  .a_p {
+    text-align: center;
+    font-size: 17px;
+}
+/* service section end */
+/* Features section start */
+    .s-h {
+      font-size: 30px;
+}
+    .s-p {
+      padding: 0px 0px 0px 0px;
+      font-size: 18px;
+}
+    .c_h2 {
+      font-size: 19px;
+      line-height: 30px;
+      text-align: center;
+}
+    .cp {
+      text-align: center;
+}
+    .c_btn {
+      margin: 20px 58px 35px;
+}
+/* Features section end */
+/* Tesimony section start */
+  /*tesimony start*/
+  .tesimony {
+      padding-bottom: 60px;
+  }
+  .t_item{
+    margin-top: 30px;
+  }
+  .t_img {
+      padding: 0 50px 20px;
+  }
+  .t_text p {
+    text-align: center;
+  }
+  .t-h3 {
+    text-align: center;
+}
+
+/* Tesimony section end */
+/* footer section start */
+.w-100 {
+    width: 140% !important;
+}
+  .foot_p {
+    padding: 10px 0 20px 0px;
+    /* margin-top: 13px; */
+    line-height: 25px;
+    color: #ffffff;
+}
+/* footer section end */
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header section start */
+  .s_h1 {
+    text-align: center;
+    font-size: 35px;
+}
+/* Tesimony section start */
+/*tesimony start*/
+  .tesimony {
+      padding-bottom: 60px;
+  }
+  .t_item{
+    margin-top: 30px;
+  }
+  .t_img {
+      padding: 0 120px 20px;
+  }
+  .t_text p {
+    text-align: center;
+  }
+/* Tesimony section end */
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header section start */
+  .s_h1 {
+    text-align: center;
+    font-size: 35px;
+}
+.s_h5 {
+    text-align: center;
+    margin: 5px 0;
+    font-size: 22px;
+}
+.s_p {
+    text-align: center;
+    margin: 10px 0 35px 0;
+    font-size: 18px;
+}
+.b_n {
+    padding: 0px 0px 0px 260px;
+}
+.t-p {
+    font-size: 20px;
+    color: #252c3a;
+    text-align: center;
+    padding: 0px 70px 50px 76px;
+}
+.c_h {
+    text-align: center;
+    font-size: 30px;
+}
+.c_p {
+    text-align: center;
+}
+/* service section start */
+  .o-p {
+    padding: 0px 115px 30px 115px;
+    font-size: 20px;
+}
+.a_p {
+    text-align: center;
+    padding: 0px 25px 0 25px;
+    font-size: 16px;
+}
+
+/* service section end */
+/* Features section start */
+  .s-p {
+    padding: 0px 130px 0px 130px;
+    font-size: 18px;
+}
+  .c_h2 {
+    text-align: center;
+}
+  .cp {
+    text-align: center;
+}
+  .c_btn {
+    margin: 20px 258px 35px;
+}
+/* Features section end */
+/* Tesimony section start */
+.t_item {
+    margin-top: 40px;
+}
+/* Tesimony section end */
+/* footer section start */
+  .foot_p {
+    padding: 13px 0 40px 0px;
+}
+/* footer section end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* service section start */
+.a_h {
+    padding: 10px 15px 10px 15px;
+    text-align: center;
+}
+/* service section end */
+/* Tesimony section start */
+.c_h2 {
+    font-size: 27px;
+}
+/* Tesimony section end */
+/* footer section start */
+  .cmmn_btn {
+    font-size: 14px;
+}
+/* footer section end */
+
+}
+
+/* Extra large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/* Extra Extra  large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}

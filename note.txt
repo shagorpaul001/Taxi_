@@ -1,0 +1,42 @@
+
+
+
+
+
+
+	Poppins:400,700,500
+	Roboto:400
+
+font-family: Poppins;sans-serif;
+font-family: Roboto;sans-serif;
+
+color:
+	black:#000000;
+	green:#21B573;
+	orang:#FD511A;
+
+	common-
+
+	screen check/
+		spacing / padding
+		fons-size / alignment
+
+
+xxl/xl/lg          md         sm-col
+
+padding - 100->120     80->100         50->70
+
+fons-size----------
+padding------------------------------
+
+xxl/xl/lg          md         sm-col
+
+banner
+h1   48            48          35
+
+course
+h1 38
+
+
+tesimony
+h1
